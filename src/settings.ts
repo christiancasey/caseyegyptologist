@@ -1,19 +1,24 @@
 export const profile = {
-	fullName: 'Your Name',
-	title: '',
-	institute: '',
-	author_name: '', // Author name to be highlighted in the papers section
+	fullName: 'Christian Casey',
+	title: 'Wissenschaftlicher Mitarbeiter',
+	institute: 'Freie Universität Berlin',
+	author_name: 'Christian Casey', // Author name to be highlighted in the papers section
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		{ title: 'Egyptology', 
+			description: 'Egyptian languages and scripts', 
+			field: 'egyptology' },
+		{ title: 'Digital Humanities', 
+			description: 'Computational tools for humanistic questions', 
+			field: 'dh' },
 	],
 }
 
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
-	email: '',
+	email: 'mailto:christiancasey86@gmail.com',
 	linkedin: '',
-	x: 'https://www.x.com/',
-	github: '',
+	x: '',
+	github: 'https://github.com/christiancasey',
 	gitlab: '',
 	scholar: '',
 	inspire: '',
@@ -32,7 +37,7 @@ export const template = {
 }
 
 export const seo = {
-	default_title: 'Astro Academia',
-	default_description: 'Astro Academia is a template for academic websites.',
+	default_title: 'Christian Casey, THE Egyptologist',
+	default_description: 'A personal website for Christian Casey, THE Egyptologist',
 	default_image: '/images/astro-academia.png',
 }
