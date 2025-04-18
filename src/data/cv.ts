@@ -99,3 +99,36 @@ export const publications = [
 		abstract: 'Assassin’s Creed Origins offers a virtual visit to ancient Egypt during the Ptolemaic and Roman eras. The game is fun, of course, but what value could it possibly hold for scholars? After all, everything in it is either based on information that we already know or reconstructed from incomplete evidence. In this paper, I argue that this immersive game world has value beyond simply scratching an Egyptologist’s itch to visit ancient Egypt, and that this value holds in spite of the occasional bit of speculation. The game designers’ attention to historical detail results in a simulated world that is strikingly rich and accurate, while the experience of interacting with this world carries over into our understanding of ancient Egypt as a real place. With this enriched understanding, we are able to evaluate scholarly questions with a broader and more robust sense of perspective.',
 	},
 ];
+``
+export const downloads = [
+	{
+		title: 'Keyboard: Egyptian Hieroglyphic',
+		authors: 'Christian Casey',
+		link: 'https://christiancasey.github.io/%C3%86gyptian.bundle.zip',
+		abstract: '',
+	},
+	{
+		title: 'Keyboard: Egyptian Transliteration',
+		authors: 'Christian Casey',
+		link: 'https://christiancasey.github.io/Transliteration.bundle.zip',
+		abstract: '',
+	},
+	{
+		title: 'Keyboard: Coptic',
+		authors: 'Christian Casey',
+		link: 'https://christiancasey.github.io/coptic.bundle.zip',
+		abstract: '',
+	},
+	{
+		title: 'Keyboard: Phoenician (Paleo-Hebrew)',
+		authors: 'Christian Casey',
+		link: 'https://christiancasey.github.io/Phoenician.bundle.zip',
+		abstract: '',
+	},
+	{
+		title: 'Keyboard: Egyptian Hieroglyphic (PC)',
+		authors: 'Christian Casey',
+		link: 'https://www.tavultesoft.com/keyman/downloads/keyboards/details.php?KeyboardID=651',
+		abstract: '',
+	},
+];
